@@ -19,29 +19,29 @@ end
 
 
 class Person 
-    def
+  #   def
   
-    end
+  #   end
   
   
-    def
+  #   def
   
-    end
+  #   end
    
-    def
+  #   def
    
   
-    end
+  #   end
    
    
-    def
+  #   def
   
-    end
+  #   end
   
   
-  def
+  # def
   
-  end
+  # end
   
   
 end  
