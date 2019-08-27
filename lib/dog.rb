@@ -19,24 +19,26 @@ end
 
 
 class Person 
-  #   def
+    def name=(person_name)
+    @name = person_name
   
-  #   end
+     end
   
   
-  #   def
-  
-  #   end
+     def name   
+      @name
+     end
    
-  #   def
-   
+    def job=(person_job)
+   @job = person_job
   
-  #   end
+     end
    
    
-  #   def
+     def job 
+       @job
   
-  #   end
+     end
   
   
   # def
